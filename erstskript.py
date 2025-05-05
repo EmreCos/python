@@ -1,11 +1,11 @@
 name = "emre"
 print(name)
-zahl1 = 1.4
-zahl2 = 2.3
+zahl1 = 1.4 # das ist zahl 1
+zahl2 = 2.3 # das ist zahl 2
 zahlergebnis = zahl1 + zahl2 
 print(zahlergebnis)
-alter= float (input("gib das alter ein"))
-
+alter= int (input("gib das alter ein"))
+# das ist ein if statment was das alter überprüft 
 if alter<18:
   print("du bist zu jung")
 
