@@ -8,7 +8,8 @@ alter= int (input("gib das alter ein"))
 # das ist ein if statment was das alter überprüft 
 if alter<18:
   print("du bist zu jung")
-        
+
+a=3        
         
 elif alter>=18:
   print ("dein alter passt")
