@@ -25,7 +25,7 @@ for frucht in fruechte:
   print("-"+frucht+"-")
 for i in range(0,11, 2):
   print(i) 
-  
+x=30  
 for frucht in fruechte:
   if frucht=="erdbeer":
       continue
