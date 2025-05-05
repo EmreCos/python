@@ -9,7 +9,7 @@ alter= int (input("gib das alter ein"))
 if alter<18:
   print("du bist zu jung")
 
-a=3        
+   
         
 elif alter>=18:
   print ("dein alter passt")
@@ -25,7 +25,8 @@ for frucht in fruechte:
   print("-"+frucht+"-")
 for i in range(0,11, 2):
   print(i) 
-x=30  
+x=30
+print(x)  
 for frucht in fruechte:
   if frucht=="erdbeer":
       continue
